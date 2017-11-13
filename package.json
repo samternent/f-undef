@@ -1,0 +1,28 @@
+{
+  "name": "f-undef",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samternent",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-progress": "^1.0.5",
+    "coffee-jshint": "^1.1.0",
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "filewatcher": "^3.0.1",
+    "http": "0.0.0",
+    "jsonfile": "^4.0.0",
+    "opn": "^5.1.0",
+    "shelljs": "^0.7.8",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
+}
